@@ -32,3 +32,10 @@ ExportedObj/
 
 .DS_Store
 Thumbs.db
+
+# Vuforia local configuration
+Assets/Resources/VuforiaConfiguration.asset
+Assets/Resources/VuforiaConfiguration.asset.meta
+
+# Unity Version Control / Plastic SCM
+.plastic/
