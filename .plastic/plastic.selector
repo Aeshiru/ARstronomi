@@ -1,0 +1,4 @@
+repository "ARstronomi/ARstronomi@1375269786745@cloud"
+  path "/"
+    br "/main"
+    co "/main"
